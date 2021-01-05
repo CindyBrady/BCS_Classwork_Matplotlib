@@ -1,4 +1,4 @@
-# BCS_Classwork_Matplotlib
+# Matplotlib
 
 # Matplotlib Homework - The Power of Plots
 
